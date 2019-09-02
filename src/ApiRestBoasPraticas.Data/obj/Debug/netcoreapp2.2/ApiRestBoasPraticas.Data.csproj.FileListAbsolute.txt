@@ -1,0 +1,12 @@
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.deps.json
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.dll
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.pdb
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.dll
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.pdb
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.csprojAssemblyReference.cache
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.csproj.CoreCompileInputs.cache
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.AssemblyInfoInputs.cache
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.AssemblyInfo.cs
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.csproj.CopyComplete
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.dll
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Data\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Data.pdb

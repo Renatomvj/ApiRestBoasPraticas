@@ -1,0 +1,8 @@
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.deps.json
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.dll
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\bin\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.pdb
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.csproj.CoreCompileInputs.cache
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.AssemblyInfoInputs.cache
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.AssemblyInfo.cs
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.dll
+C:\Users\Renato Martins\source\repos\ApiRestBoasPraticas\src\ApiRestBoasPraticas.Business\obj\Debug\netcoreapp2.2\ApiRestBoasPraticas.Business.pdb

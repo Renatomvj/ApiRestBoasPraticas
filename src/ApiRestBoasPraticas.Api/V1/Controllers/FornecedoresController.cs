@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ApiRestBoasPraticas.Api.Configuration;
 using ApiRestBoasPraticas.Api.Controllers;
 using ApiRestBoasPraticas.Api.DTO;
 using ApiRestBoasPraticas.Business.Interfaces;
 using ApiRestBoasPraticas.Business.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -42,6 +44,7 @@ namespace ApiRestBoasPraticas.Api.V1.Controllers
             return Ok(fornecedores);
         }
 
+      
         [HttpGet("{id:guid}")]
         public async Task<ActionResult<FornecedorDTO>> ObterPorId(Guid id)
         {
@@ -62,6 +65,7 @@ namespace ApiRestBoasPraticas.Api.V1.Controllers
             return CustomResponse(fornecedorDTO);
         }
 
+        [ClaimsAuthorize("Fornecedor", "Atualizar")]
         [HttpPut("{id:guid}")]
         public async Task<ActionResult<FornecedorDTO>> Atualizar(Guid id, [FromBody] FornecedorDTO fornecedorDTO)
         {

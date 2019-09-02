@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renato Martins\\source\\repos\\ApiRestBoasPraticas\\src\\ApiRestBoasPraticas.Business\\ApiRestBoasPraticas.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renato Martins\\source\\repos\\ApiRestBoasPraticas\\src\\ApiRestBoasPraticas.Business\\ApiRestBoasPraticas.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato Martins\\source\\repos\\ApiRestBoasPraticas\\src\\ApiRestBoasPraticas.Business\\ApiRestBoasPraticas.Business.csproj",
+        "projectName": "ApiRestBoasPraticas.Business",
+        "projectPath": "C:\\Users\\Renato Martins\\source\\repos\\ApiRestBoasPraticas\\src\\ApiRestBoasPraticas.Business\\ApiRestBoasPraticas.Business.csproj",
+        "packagesPath": "C:\\Users\\Renato Martins\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato Martins\\source\\repos\\ApiRestBoasPraticas\\src\\ApiRestBoasPraticas.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato Martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
